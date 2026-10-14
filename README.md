@@ -1,4 +1,4 @@
-# aifac-on-eks
+# aifac-on-k8s
 
 
 
