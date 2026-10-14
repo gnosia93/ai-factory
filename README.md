@@ -1,4 +1,4 @@
-# aifac-on-eks
+# ai.fac-on-eks
 
 
 
