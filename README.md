@@ -1,4 +1,4 @@
-# ai-factory
+# aifac-on-eks
 
 
 
