@@ -1,1 +1,1 @@
-# aws-ai-factory
+# ai-factory
